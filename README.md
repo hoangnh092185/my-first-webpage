@@ -1,9 +1,9 @@
-### _my-first-webpage.html, favorite-things.html, 08.01.2016_
+### My first webpage of my favorite things, 08.01.2016_
 
 #### By _**Nhat Hoang and Josh Huffman**_
 
 ## _Description_
-This repository contains two html pages demonstrating using different tags, inline and block elements, attached images, and hyperlinks to other sites within the coding line.
+This repository contains two html pages demonstrate using different tags, inline/block elements, attached images, and hyperlinks to other sites within the coding line.
 
 ## _Setup_
 - Clone this repository.
